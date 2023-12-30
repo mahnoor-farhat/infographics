@@ -134,5 +134,3 @@ plt.tight_layout()
 
 plt.show()
 
-#https://github.com/mahnoor-farhat/infographics.git
-
